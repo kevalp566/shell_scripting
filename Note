@@ -1,0 +1,21 @@
+
+
+ The positional parameters given to the current script or function.
+
+$@ : The positional parameters given to the current script or function.
+
+$# : The number of arguments given to the current script or function.
+
+$? - Exit status of the previous command.
+
+$$ - Process ID of the shell process.
+
+$! - Process ID of the last background command.
+
+$0 - Name of the shell or shell script.
+
+
+
+
+
+
