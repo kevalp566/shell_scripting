@@ -1,7 +1,6 @@
-
-
- The positional parameters given to the current script or function.
-
+##################################################################
+The positional parameters given to the current script or function.
+##################################################################
 $@ : The positional parameters given to the current script or function.
 
 $# : The number of arguments given to the current script or function.
