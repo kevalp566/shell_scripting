@@ -1,5 +1,7 @@
 ##################################################################
- The positional parameters given to the current script or function.
+ 
+The positional parameters given to the current script or function.
+
 ##################################################################
 $@ : The positional parameters given to the current script or function.
 
